@@ -1,4 +1,4 @@
-#Android Release Not1.26.0.39969 
+#Android Release Not1.27.0.40443 
 
 ##3rd Party SDK Versions
 
